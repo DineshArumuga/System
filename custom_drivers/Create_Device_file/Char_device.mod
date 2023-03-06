@@ -1,0 +1,2 @@
+/home/thundersoft/dinesh/LDD/workspace/ldd/custom_drivers/Create_Device_file/Char_device.o
+
