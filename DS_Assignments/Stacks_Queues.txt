@@ -1,0 +1,3 @@
+1. create a stack and push 1,2,3 and pop once - print after even push and pop 
+2. create a queue and enqueue 1,2,3 and dequeue once - print after even enqueue and dequeue 
+3. Implement Queue using two stacks.

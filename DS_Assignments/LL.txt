@@ -1,0 +1,10 @@
+Create a list with 3 nodes having int data in single Linked list data : 100,200,300
+Create a circular LL with 5 nodes having char data - vowels - a,e,i,o,u
+
+
+1.Implement queue using LL
+2.Remove alternate nodes in single linked list
+3.Write a program to remove the node at particuar position in single linked list
+4.program to count number of nodes in Singly Linked List
+5.C program to swap two nodes in a singly linked list
+6.Two or more linked lists merging. (with and without duplicates).

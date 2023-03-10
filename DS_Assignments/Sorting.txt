@@ -1,0 +1,7 @@
+Try programs for all the below sorting alogorithms:
+(note time complexity for best and worst case scenarios along with some real time use cases)
+
+1. Bubble sort
+2. Quick sort
+3. Insertion sort
+4. Selection sort
